@@ -1,6 +1,6 @@
 Daftar-Biodata-Siswa
 ==
-Daftar biodata siswa Dicoding
+Daftar Biodata Siswa Dicoding
 --
 *Berikut adalah biodata siswa Dicoding*
 *biodata siswa terdiri dari 6 angkatan yaitu :*
