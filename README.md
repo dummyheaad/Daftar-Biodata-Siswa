@@ -1,8 +1,9 @@
 Daftar-Biodata-Siswa
 ==
-Daftar biodata siswa Dicoding Udemy
+Daftar biodata siswa Dicoding
 --
-*biodata siswa terdiri dari 6 angkatan yaitu sebagai berikut:*
+*Berikut adalah biodata siswa Dicoding*
+*biodata siswa terdiri dari 6 angkatan yaitu :*
 - Angkatan 2019
 - Angkatan 2020
 - Angkatan 2021
